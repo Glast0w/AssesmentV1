@@ -9,7 +9,7 @@ namespace AssesmentV1
         {
             
             Console.WriteLine("Person class test");
-            Console.WriteLine("")
+            Console.WriteLine("");
             Person person1 = new Person(); // create a new Person using no-arg
             Console.WriteLine(person1);
             Console.WriteLine();
